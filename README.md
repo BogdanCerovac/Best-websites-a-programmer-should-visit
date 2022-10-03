@@ -220,6 +220,8 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## General Tools
+- [WAVE Browser Extensions to check acessibility](https://wave.webaim.org/extension/): Helping tool to find some accessibility issues on a website or web app.
+- [Deque's axe - Browser Extension to check accessibility])(https://www.deque.com/axe/browser-extensions/): Another free extension to check for accessibility issues on a website or web app.
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
